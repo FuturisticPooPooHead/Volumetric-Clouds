@@ -1,0 +1,16 @@
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\ClientPluginTemplate.dll.config
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\ClientPluginTemplate.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\ClientPluginTemplate.pdb
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\0Harmony.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\Mono.Cecil.Mdb.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\Mono.Cecil.Pdb.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\Mono.Cecil.Rocks.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\bin\Debug\net48\Mono.Cecil.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPlugin.csproj.AssemblyReference.cache
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPlugin.AssemblyInfoInputs.cache
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPlugin.AssemblyInfo.cs
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPl.DFA47300.Up2Date
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPluginTemplate.dll
+C:\Users\Zak00\Downloads\se-client-plugin-template-main (1)\se-client-plugin-template-main\ClientPlugin\obj\Debug\net48\ClientPluginTemplate.pdb
