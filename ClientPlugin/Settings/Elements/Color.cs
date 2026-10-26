@@ -67,7 +67,7 @@ internal class ColorAttribute : Attribute, IElement
 
         textBox.SetToolTip(Description);
 
-        var label = Tools.Tools.GetLabelOrDefault(name, Label);
+        var label = Tools.GetLabelOrDefault(name, Label);
         return new List<Control>()
         {
             new Control(new MyGuiControlLabel(text: label), minWidth: Control.LabelMinWidth),
