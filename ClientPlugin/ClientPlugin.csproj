@@ -9,7 +9,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 
     <!-- Ensure SDK generates assembly attributes (no need for AssemblyInfo) -->
-    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 
     <!-- Default versions; override in Directory.Build.props  -->
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
