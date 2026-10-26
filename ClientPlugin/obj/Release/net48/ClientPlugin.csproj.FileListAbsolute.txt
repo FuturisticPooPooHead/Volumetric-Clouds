@@ -1,0 +1,16 @@
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\Shaders\VolumetricClouds.hlsl
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\ClientPluginTemplate.dll.config
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\ClientPluginTemplate.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\ClientPluginTemplate.pdb
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\0Harmony.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\Mono.Cecil.Mdb.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\Mono.Cecil.Pdb.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\Mono.Cecil.Rocks.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\bin\Release\net48\Mono.Cecil.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPlugin.csproj.AssemblyReference.cache
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPlugin.sourcelink.json
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPl.DFA47300.Up2Date
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPluginTemplate.dll
+C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Release\net48\ClientPluginTemplate.pdb

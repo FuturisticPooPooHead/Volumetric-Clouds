@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeXF6r4NNM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zak00\\source\\repos\\Volumetric-Clouds\\ClientPlugin\\ClientPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zak00\\.nuget\\packages\\krafs.publicizer\\2.3.0\\krafs.publicizer.2.3.0.nupkg.sha512",
+    "C:\\Users\\Zak00\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512",
+    "C:\\Users\\Zak00\\.nuget\\packages\\mono.cecil\\0.11.6\\mono.cecil.0.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}

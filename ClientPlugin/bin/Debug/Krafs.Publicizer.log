@@ -1,0 +1,48 @@
+[14:18:57 INF] Initializing assembly publicization
+[14:18:57 INF] Referenced assemblies: 172
+[14:18:57 INF] Publicize: Sandbox.Game, virtual members: True, compiler-generated members: True, member pattern: 
+[14:18:57 INF] Publicize: SpaceEngineers.Game, virtual members: True, compiler-generated members: True, member pattern: 
+[14:18:57 INF] Publicize: VRage.Render11, virtual members: True, compiler-generated members: True, member pattern: 
+[14:18:57 INF] DoNotPublicize: Sandbox.Game:Sandbox.Game.Entities.MyEntities.OnEntityAdd
+[14:18:57 INF] DoNotPublicize: Sandbox.Game:Sandbox.Game.Entities.MyEntities.OnEntityRemove
+[14:18:57 INF] DoNotPublicize: Sandbox.Game:Sandbox.Game.Entities.MyCubeGrid.OnStaticChanged
+[14:18:57 INF] [Sandbox.Game] Assembly processing starting...
+[14:18:57 INF] [Sandbox.Game] Path: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\Sandbox.Game.dll
+[14:18:57 INF] [Sandbox.Game] Publicization hash: 6658AEE43E489644B3E0D3C436416133
+[14:18:57 INF] [Sandbox.Game] Publicizing members...
+[14:18:57 VRB] [Sandbox.Game] Explicitly ignoring field: Sandbox.Game.Entities.MyCubeGrid.OnStaticChanged
+[14:18:57 VRB] [Sandbox.Game] Explicitly ignoring field: Sandbox.Game.Entities.MyEntities.OnEntityRemove
+[14:18:57 VRB] [Sandbox.Game] Explicitly ignoring field: Sandbox.Game.Entities.MyEntities.OnEntityAdd
+[14:18:57 INF] [Sandbox.Game] Publicized types: 4210
+[14:18:57 INF] [Sandbox.Game] Publicized properties: 2236
+[14:18:57 INF] [Sandbox.Game] Publicized methods: 18225
+[14:18:57 INF] [Sandbox.Game] Publicized fields: 13516
+[14:18:57 INF] [Sandbox.Game] Saving publicized assembly to obj\Debug\net48\PublicizedAssemblies\Sandbox.Game.6658AEE43E489644B3E0D3C436416133\Sandbox.Game.dll
+[14:19:00 INF] [Sandbox.Game] Found XML documentation at C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\Sandbox.Game.xml
+[14:19:00 INF] [Sandbox.Game] Copying XML documentation to C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Debug\net48\PublicizedAssemblies\Sandbox.Game.6658AEE43E489644B3E0D3C436416133\Sandbox.Game.xml
+[14:19:00 INF] [Sandbox.Game] Assembly processing finished
+[14:19:00 INF] [SpaceEngineers.Game] Assembly processing starting...
+[14:19:00 INF] [SpaceEngineers.Game] Path: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\SpaceEngineers.Game.dll
+[14:19:00 INF] [SpaceEngineers.Game] Publicization hash: 24DAA7A95522B892CB8C3672BEC00BEC
+[14:19:00 INF] [SpaceEngineers.Game] Publicizing members...
+[14:19:00 INF] [SpaceEngineers.Game] Publicized types: 797
+[14:19:00 INF] [SpaceEngineers.Game] Publicized properties: 362
+[14:19:00 INF] [SpaceEngineers.Game] Publicized methods: 4522
+[14:19:00 INF] [SpaceEngineers.Game] Publicized fields: 2713
+[14:19:00 INF] [SpaceEngineers.Game] Saving publicized assembly to obj\Debug\net48\PublicizedAssemblies\SpaceEngineers.Game.24DAA7A95522B892CB8C3672BEC00BEC\SpaceEngineers.Game.dll
+[14:19:00 INF] [SpaceEngineers.Game] Found XML documentation at C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\SpaceEngineers.Game.xml
+[14:19:00 INF] [SpaceEngineers.Game] Copying XML documentation to C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Debug\net48\PublicizedAssemblies\SpaceEngineers.Game.24DAA7A95522B892CB8C3672BEC00BEC\SpaceEngineers.Game.xml
+[14:19:00 INF] [SpaceEngineers.Game] Assembly processing finished
+[14:19:00 INF] [VRage.Render11] Assembly processing starting...
+[14:19:00 INF] [VRage.Render11] Path: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\VRage.Render11.dll
+[14:19:00 INF] [VRage.Render11] Publicization hash: 42D1D8D91B84603268ECDE69FB8E0569
+[14:19:00 INF] [VRage.Render11] Publicizing members...
+[14:19:00 INF] [VRage.Render11] Publicized types: 817
+[14:19:00 INF] [VRage.Render11] Publicized properties: 322
+[14:19:00 INF] [VRage.Render11] Publicized methods: 2223
+[14:19:00 INF] [VRage.Render11] Publicized fields: 2785
+[14:19:00 INF] [VRage.Render11] Saving publicized assembly to obj\Debug\net48\PublicizedAssemblies\VRage.Render11.42D1D8D91B84603268ECDE69FB8E0569\VRage.Render11.dll
+[14:19:01 INF] [VRage.Render11] Found XML documentation at C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Bin64\VRage.Render11.xml
+[14:19:01 INF] [VRage.Render11] Copying XML documentation to C:\Users\Zak00\source\repos\Volumetric-Clouds\ClientPlugin\obj\Debug\net48\PublicizedAssemblies\VRage.Render11.42D1D8D91B84603268ECDE69FB8E0569\VRage.Render11.xml
+[14:19:01 INF] [VRage.Render11] Assembly processing finished
+[14:19:01 INF] Finished processing 3 assemblies. Terminating task.
