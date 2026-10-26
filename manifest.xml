@@ -2,10 +2,10 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
 
     <!-- The ID of your plugin, never change this -->
-    <Id>75B5E8B0-3BD0-4A74-A47D-5364B5DC99C4</Id>
+    <Id>FuturisticPooPooHead/Volumetric-Clouds</Id>
 
     <!-- GitHub repository ID -->
-    <RepoId>FuturisticPooPooHead/Clouds</RepoId>
+    <RepoId>FuturisticPooPooHead/Volumetric-Clouds</RepoId>
 
     <!-- The name of your plugin that will appear in the plugin list -->
     <FriendlyName>Volumetric Planetary Clouds</FriendlyName>
