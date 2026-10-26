@@ -43,8 +43,8 @@
     <Hidden>true</Hidden> 
     -->
 
-    <!-- The current plugin version's commit hash -->
-    <Commit>3c3d3779b7ad6470a2daf8ca8fefcd2f5103c7c5</Commit>
+    <!-- The current plugin version's commit hash or branch name -->
+    <Commit>main</Commit>
 
     <!-- Optional list of alternate versions of the plugin, use it for test or custom builds
     <AlternateVersions>
