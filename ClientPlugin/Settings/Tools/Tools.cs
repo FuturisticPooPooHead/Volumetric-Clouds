@@ -55,7 +55,7 @@ public static class Tools
             return false;
         }
 
-        color = new Color(r / 255f, g / 255f, b / 255f, 1f);
+        color = new Color((byte)r, (byte)g, (byte)b, 255);
         return true;
     }
 
@@ -79,7 +79,7 @@ public static class Tools
             return false;
         }
 
-        color = new Color(r / 255f, g / 255f, b / 255f, a / 255f);
+        color = new Color((byte)r, (byte)g, (byte)b, (byte)a);
         return true;
     }
 
