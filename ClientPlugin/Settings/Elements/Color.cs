@@ -1,4 +1,4 @@
-﻿using Sandbox.Graphics.GUI;
+using Sandbox.Graphics.GUI;
 using System;
 using System.Collections.Generic;
 using ClientPlugin.Settings.Tools;
@@ -50,10 +50,10 @@ internal class ColorAttribute : Attribute, IElement
                 box.BorderEnabled = false;
 
                 sample.BorderColor = color;
-                    
+
                 if (color != PropertyGetter())
                     PropertySetter(color);
-                    
+
                 var text = HasAlpha ? color.ToHexStringRgba() : color.ToHexStringRgb();
                 if (text != box.Text)
                     box.Text = text;
